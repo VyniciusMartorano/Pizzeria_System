@@ -1,0 +1,6 @@
+Dependencias
+
+PQt5
+sql
+pywin32
+reportlab
