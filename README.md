@@ -7,8 +7,7 @@ Dependencies to be installed in the virtual environment:
 pip install pywin32
 pip install reportlab
 pip install Pyqt5
-pip install mysql
-pip install pillow
+
 
 This project was for the exclusive use of a local pizzeria.
 Basically the program has a directory folder to store your files.
